@@ -34,18 +34,20 @@ div {
   border-color: #ccc;
 }
 
-.btn-subtle:hover, .btn-ghost:hover {
+.btn-subtle:hover {
   background-color: #666;
   border-color: #666;
 }
 
-.btn-ghost{
+.btn-ghost {
   background-color: #fff;
   color: #000;
 }
 
 .btn-ghost:hover {
   color: #fff;
+  background-color: #666;
+  border-color: #666;
 }
 
 .btn-warning {
