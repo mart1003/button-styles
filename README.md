@@ -23,7 +23,7 @@ deliverables: "1 HTML file, 1 CSS file"
 - *Button padding:* `.4em .75em .3em`
 - *Button corner radius:* `8px`
 - *Button border width:* `3px`
-- *Expected class names:* `.btn`, `.btn-small`, `.btn-big`, `.btn-subtle`, `.btn-ghost`, `.btn-warning`
+- *Expected class names:* `.btn`, `.btn-small`, `.btn-big`, `.btn-warning`, `.btn-ghost`, `.btn-subtle`
 
 ---
 
